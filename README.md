@@ -30,7 +30,7 @@ I'm Luis Carlos, a bachelor in Software Engineering acting as a Backend develope
 <p align="left"> <a href="https://www.github.com/LuisCarlosb3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kp_beta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luiscarlosgalvao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=kpbeta)](https://holopin.io/@kpbeta)
+[![@kpbeta's Holopin board](https://holopin.me/kpbeta)](https://holopin.io/@kpbeta)
 
 
 <b>My GitHub Stats</b>
